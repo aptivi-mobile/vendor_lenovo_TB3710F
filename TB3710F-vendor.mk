@@ -1,5 +1,5 @@
 # Copyright (C) 2016 The CyanogenMod Project
-# Copyright (C) 2017-2020 The LineageOS Project
+# Copyright (C) 2017-2023 The LineageOS Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -32,6 +32,7 @@ PRODUCT_COPY_FILES += \
     vendor/lenovo/TB3710F/proprietary/etc/audio_policy.conf:system/etc/audio_policy.conf \
     vendor/lenovo/TB3710F/proprietary/etc/bluetooth/auto_pair_blacklist.conf:system/etc/bluetooth/auto_pair_blacklist.conf \
     vendor/lenovo/TB3710F/proprietary/etc/bluetooth/auto_pair_devlist.conf:system/etc/bluetooth/auto_pair_devlist.conf \
+    vendor/lenovo/TB3710F/proprietary/etc/bluetooth/bt_did.conf:system/etc/bluetooth/bt_did.conf \
     vendor/lenovo/TB3710F/proprietary/etc/bluetooth/btconfig.xml:system/etc/bluetooth/btconfig.xml \
     vendor/lenovo/TB3710F/proprietary/etc/custom.conf:system/etc/custom.conf \
     vendor/lenovo/TB3710F/proprietary/etc/factory.ini:system/etc/factory.ini \
@@ -105,6 +106,7 @@ PRODUCT_COPY_FILES += \
     vendor/lenovo/TB3710F/proprietary/lib/libcameracustom.so:system/lib/libcameracustom.so \
     vendor/lenovo/TB3710F/proprietary/lib/libcustom_nvram.so:system/lib/libcustom_nvram.so \
     vendor/lenovo/TB3710F/proprietary/lib/libcvsd_mtk.so:system/lib/libcvsd_mtk.so \
+    vendor/lenovo/TB3710F/proprietary/lib/libdpframework.so:system/lib/libdpframework.so \
     vendor/lenovo/TB3710F/proprietary/lib/libdrmmtkutil.so:system/lib/libdrmmtkutil.so \
     vendor/lenovo/TB3710F/proprietary/lib/libdrmmtkwhitelist.so:system/lib/libdrmmtkwhitelist.so \
     vendor/lenovo/TB3710F/proprietary/lib/libem_support_jni.so:system/lib/libem_support_jni.so \

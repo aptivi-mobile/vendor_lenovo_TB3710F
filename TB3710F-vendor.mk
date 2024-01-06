@@ -112,6 +112,10 @@ PRODUCT_COPY_FILES += \
     vendor/lenovo/TB3710F/proprietary/lib/libem_support_jni.so:system/lib/libem_support_jni.so \
     vendor/lenovo/TB3710F/proprietary/lib/libfeatureio.so:system/lib/libfeatureio.so \
     vendor/lenovo/TB3710F/proprietary/lib/libfile_op.so:system/lib/libfile_op.so \
+    vendor/lenovo/TB3710F/proprietary/lib/libfmcust.so:system/lib/libfmcust.so \
+    vendor/lenovo/TB3710F/proprietary/lib/libfmmt6620.so:system/lib/libfmmt6620.so \
+    vendor/lenovo/TB3710F/proprietary/lib/libfmmt6627.so:system/lib/libfmmt6627.so \
+    vendor/lenovo/TB3710F/proprietary/lib/libfmmt6628.so:system/lib/libfmmt6628.so \
     vendor/lenovo/TB3710F/proprietary/lib/libgralloc_extra.so:system/lib/libgralloc_extra.so \
     vendor/lenovo/TB3710F/proprietary/lib/libgui_ext.so:system/lib/libgui_ext.so \
     vendor/lenovo/TB3710F/proprietary/lib/libhwm.so:system/lib/libhwm.so \
